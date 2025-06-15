@@ -1,0 +1,20 @@
+{
+  "name": "lesson9-assignment",
+  "version": "0.0.1",
+  "description": "for rolodex card assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && gulp"
+  },
+  "author": "julianne d",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^3.0.4",
+    "gulp": "^5.0.1",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-terser": "^2.1.0",
+    "sass": "^1.89.2"
+  }
+}

@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: $text-color;
+    
+    //nesting example
+    @media (max-width: 674px) {
+        font-size: 2vw;
+        color: $text-color-small-screen;
+    }
+}
+
